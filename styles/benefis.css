@@ -1,0 +1,35 @@
+.img-benefits{
+    width: 400px;
+    height: 317px;
+}
+
+.main-title-benefits{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    color: #424A57;
+    max-width: 1440px;
+    margin-top: 86px;
+    margin-bottom: 32px;
+}
+
+.title-benefits{
+    margin: 32px 0 24px;
+}
+
+.item-benefits{
+    display: inline-flex;
+    flex-wrap: wrap;
+    max-width: 400px;
+}
+
+.container_benefits{
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+
+
+.item-benefits:not(:first-child){
+    margin-left: 20px;
+}

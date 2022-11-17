@@ -1,0 +1,36 @@
+.title-feature, .title-benefits{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 44px;
+    margin-bottom: 14px;
+    color: #424A57;
+    
+}
+
+.text-feature, .text-benefits{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    width: 340px;
+    height: 140px;
+}
+
+.check, .title-feature, .text-feature{
+    float: left;
+}
+
+.title-feature{
+    margin-left: 16px;
+    
+}
+
+.item-feature{
+    max-width: 400px;
+    margin-right: 20px;
+    flex: 400px;
+    
+}
+
+.text-feature{
+    margin-left: 60px;
+}

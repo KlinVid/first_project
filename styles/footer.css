@@ -1,0 +1,25 @@
+.menu-footer ul{
+    display: flex;
+    list-style: none;
+}
+
+.menu-footer{
+    margin-left: 786px;
+}
+
+.footer{
+    background-color: #424A5780;
+    padding: 50px 0;
+    margin-top: 122px;
+}
+
+.footer-text{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.menu-items-footer{
+    margin-left: 24px;
+}

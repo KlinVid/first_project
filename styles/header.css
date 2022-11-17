@@ -1,0 +1,31 @@
+
+
+.header{
+    padding: 56px 0;
+    background-color: #424A57;
+}
+
+.logo{
+    margin-left: 100px;
+}
+
+
+.menu{
+    margin-left: 524px;
+}
+
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+
+.menu-items{
+    margin-right: 32px;
+}
+
+.menu-items a{
+    font-weight: 700;
+    font-size: 24px;
+    color: #E1E1E1;
+    text-decoration: none;
+}
